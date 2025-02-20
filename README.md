@@ -58,6 +58,7 @@ Las preguntas de diseño de sistemas suelen ser ambiguas. El entrevistador está
 
 # 3 - Preguntas de composición de tu equipo
 - ¿Cuántos ingenieros integrarán el equipo?
+
 Construir un producto con un equipo pequeño (de 2 a 4 ingenieros): La principal preocupación será la simplicidad, no hay estricta necesidad de modularización y el trabajo de features vistas como MVPs
 
 Construir un producto con un equipo grande (de 20 a 100 ingenieros): La principal preocupación es la estructura del proyecto y su modularización. Debes diseñar tu sistema de manera que permita que varias personas trabajen en él sin interferir en el trabajo de los demás.
